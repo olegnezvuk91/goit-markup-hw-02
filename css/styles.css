@@ -109,6 +109,14 @@ button {
 .team {
   background-color: #f4f4fd;
 }
+.team-two {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
 .team-list {
   background-color: #ffffff;
 }
@@ -140,6 +148,7 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .portfolio-title {
   font-weight: 500;

@@ -25,34 +25,34 @@ a {
   color: #2e2f42;
 }
 
-.navigation a {
+.navigation-link {
   color: #2e2f42;
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
 }
-.navigation a:hover {
+.navigation-link:hover {
   color: #404bbf;
 }
-.navigation a:focus {
+.navigation-link:focus {
   color: #404bbf;
 }
 
 address {
   font-style: normal;
 }
-.contact a {
+.contact-link {
   color: #434455;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
 }
-.contact a:hover {
+.contact-link:hover {
   color: #404bbf;
 }
-.contact a:focus {
+.contact-link:focus {
   color: #404bbf;
 }
 
@@ -116,6 +116,7 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .team-list {
   background-color: #ffffff;
